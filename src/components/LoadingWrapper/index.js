@@ -1,17 +1,18 @@
-import  React from "react"
-import { View, StatusBar, StyleSheet } from "react-native";
-import { Spinner } from "react-native-loading-spinner-overlay";
+import React from 'react'
+import { View, StatusBar, StyleSheet } from 'react-native'
+import Spinner from 'react-native-loading-spinner-overlay'
 
-const wrapper = ({child, isLoading = false, customStyle}) => {
-    <View style = {[styles.container, customStyle]}>
-        <StatusBar/>
-        {child}
-        <Spinner visible = {isLoading}/>
-    </View>
-}
+// destructuring 
+const Wrapper = ({ children, isLoading = false, customStyle }) => (
+  <View style={[styles.container, customStyle]}>
+    <StatusBar barStyle='dark-content' />
+    {children}
+    <Spinner visible={isLoading}/>
+  </View>
+)
 
-styles = StyleSheet.create({
-    container: 1
+const styles = StyleSheet.create({
+  container: 1,
 })
 
-export default wrapper
+export default Wrapper

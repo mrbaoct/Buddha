@@ -60,7 +60,7 @@ export default class Login extends Component {
         if (token) {
           await AsyncStorage.setItem(storageKey.token, JSON.stringify(token))
           await AsyncStorage.setItem(storageKey.userInfo, JSON.stringify(user))
-          this.props.navigation.navigate('main')
+          this.props.navigation.navigate('Main')
         }
       }
     } catch (error) {
@@ -71,6 +71,7 @@ export default class Login extends Component {
     }
   }
   
+
   _onRenderInputField() {
     return (
       <View style={styles.inputWrapper}>
@@ -87,7 +88,7 @@ export default class Login extends Component {
         />
         <Button
           onPress={() => this._loginWithEmailPassword()}
-        >Login</Button>
+        >Đăng nhập</Button>
       </View>
     )
   }
@@ -95,50 +96,48 @@ export default class Login extends Component {
   _onRenderForgetPassword() {
     return (
       <TouchableOpacity
-        onPress={() => this.props.navigation.navigate('reset')}
+        onPress={() => this.props.navigation.navigate('Reset')}
         style={styles.forgetWrapper}
       >
-        <Text style={styles.forgetTxt}>Quên mât khẩu?</Text>
+        <Text style={styles.forgetTxt}>Quên mật khẩu?</Text>
       </TouchableOpacity>
     )
   }
 
-  // This is when user want to become a buddhist
+
   _onRenderSuggestRegister() {
     return (
       <View style={styles.registerWrapper}>
         <Text style={styles.registerTxt}>Chưa có tài khoản?</Text>
 
         <TouchableOpacity
-          onPress={() => this.props.navigation.navigate('register')}
+          onPress={() => this.props.navigation.navigate('Register')}
         >
-          <Text style={[styles.registerTxt, { fontWeight: '500' }]}>Đăng ký ngay.</Text>
+          <Text style={[styles.registerTxt, { fontWeight: '500' }]}>Hãy đăng kí</Text>
         </TouchableOpacity>
       </View>
     )
   } 
-
-  // Return error Message 
+ 
 
   _onRenderErrMess = () => {
     const { loginError } = this.state
     if (loginError !== null) {
       if (loginError.code === 'auth/invalid-email') {
-        return 'Email không đúng định dạng.'
+        return 'Sai định dạng email.'
       } else if (loginError.code === 'auth/user-not-found') {
-        return 'Tài khoản không tồn tại.'
+        return `Không tồn tại người dùng này.`
       } else if (loginError.code === 'auth/wrong-password') {
-        return 'Sai mật khẩu.'
+        return 'Sai mật khẩu, hãy thử lại'
       }
     }
   }
 
-  // Toggle Modal
+
   _toggleModal = () => {
     this.setState({ isShowModal: !this.state.isShowModal })
   }
 
-  // Render Modal
   _onRenderModal = () => {
     const { isShowModal } = this.state
     console.log('HEY IS SHOW MODAL', isShowModal)
@@ -168,17 +167,17 @@ export default class Login extends Component {
         extraHeight={100}
         innerRef={ref => this.scroll = ref}
       >
-          {/* App Name */}
+
         <View style={styles.loginWrapper}>
           <Text style={styles.appName}>BUDDHA</Text>
-          {/* Input Field */}
+
          {this._onRenderInputField()}
         {this._onRenderForgetPassword()}
         </View>
       </KeyboardAwareScrollView>
        
 
-        {/* Need Register? */}
+
         {isShowRegister ? this._onRenderSuggestRegister() : null}
       </View>
         {this._onRenderModal()}
@@ -193,7 +192,7 @@ const styles = StyleSheet.create({
   },
   loginContainer: {
     flex: 1,
-    backgroundColor: colors.darkTransPrimary,
+    backgroundColor: 'rgba(0,0,0,0.7)',
     paddingTop: 80,
     alignItems: 'center',
   },

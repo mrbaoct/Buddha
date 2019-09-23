@@ -8,6 +8,7 @@ MERGED from /home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/src
 MERGED from [:@react-native-community_async-storage] /home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-firebase] /home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
 MERGED from [:react-native-gesture-handler] /home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.60.5] /root/.gradle/caches/transforms-2/files-2.1/793a61e7ba8bc65eb3020b088c70eebf/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /root/.gradle/caches/transforms-2/files-2.1/c8a9d37e960c3896fb0a2c4da9858a5b/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:17.0.0] /root/.gradle/caches/transforms-2/files-2.1/a2c396c1e79b335329c06e18cc4b51cd/AndroidManifest.xml:17:1-42:12
@@ -211,6 +212,8 @@ MERGED from [:react-native-firebase] /home/bao/Desktop/GitHub/ReactNative/ReactC
 MERGED from [:react-native-firebase] /home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.60.5] /root/.gradle/caches/transforms-2/files-2.1/793a61e7ba8bc65eb3020b088c70eebf/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.60.5] /root/.gradle/caches/transforms-2/files-2.1/793a61e7ba8bc65eb3020b088c70eebf/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /root/.gradle/caches/transforms-2/files-2.1/c8a9d37e960c3896fb0a2c4da9858a5b/AndroidManifest.xml:5:5-44

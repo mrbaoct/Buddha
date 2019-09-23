@@ -14,10 +14,10 @@ export default class AuthLoading extends Component {
 
     if (tokenStorage && tokenStorage !== null) {
 
-      navigation.navigate('main')
+      navigation.navigate('Main')
     } else {
 
-      navigation.navigate('auth')
+      navigation.navigate('Auth')
     }
   };
   

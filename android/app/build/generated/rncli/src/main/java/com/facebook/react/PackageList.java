@@ -19,6 +19,8 @@ import com.reactnativecommunity.asyncstorage.AsyncStoragePackage;
 import io.invertase.firebase.RNFirebasePackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
+// react-native-vector-icons
+import com.oblador.vectoricons.VectorIconsPackage;
 
 public class PackageList {
   private Application application;
@@ -54,7 +56,8 @@ public class PackageList {
       new MainReactPackage(),
       new AsyncStoragePackage(),
       new RNFirebasePackage(),
-      new RNGestureHandlerPackage()
+      new RNGestureHandlerPackage(),
+      new VectorIconsPackage()
     ));
   }
 }

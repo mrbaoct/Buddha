@@ -1,21 +1,20 @@
-import { createAppContainer } from "react-navigation"
+import {
+  createAppContainer
+} from 'react-navigation'
 
-import { createStackNavigator } from "react-navigation-stack"
+import { createStackNavigator } from "react-navigation-stack";
 
-import LoginScreen from "./Login";
-
-import RegisterScreen from "./Register";
-
-import ResetScreen from "./Reset";
+import LoginScreen from './Login'
+import RegisterScreen from './Register'
+import ResetScreen from './Reset'
 
 const AuthNavigation = createStackNavigator({
-    login: LoginScreen,
-    register: RegisterScreen,
-    reset: ResetScreen
+  Login: LoginScreen,
+  Register: RegisterScreen,
+  Reset: ResetScreen,
 }, {
-    initialRouteName: 'login',
-    headerMode: "none"
-}
-)
+  initialRouteName: 'Login',
+  headerMode: 'none'
+})
 
-export default createAppContainer(AuthNavigation);
+export default createAppContainer(AuthNavigation)

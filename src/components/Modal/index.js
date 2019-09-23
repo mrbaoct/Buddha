@@ -29,7 +29,7 @@ const BModal = ({ isVisible, message, onPress }) => (
 const styles = StyleSheet.create({
   modalWrapper: {
     flex: 1,
-    backgroundColor: colors.darkTransPrimary,
+    backgroundColor: 'rgba(0,0,0,0.7)',
     justifyContent: 'center',
     alignItems: 'center'
   },

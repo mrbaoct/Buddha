@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/share/yarn/bin/yarn.js remove react-native-firebase
+  /usr/local/bin/node /usr/share/yarn/bin/yarn.js add react-native-swipeout
 
 PATH: 
   /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/bao/Android/Sdk/tools:/home/bao/Android/Sdk/platform-tools
@@ -14,7 +14,7 @@ Platform:
   linux x64
 
 Trace: 
-  Error: EACCES: permission denied, unlink '/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/node_modules/.bin/acorn'
+  Error: EACCES: permission denied, unlink '/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/node_modules/faker/.gitattributes'
 
 npm manifest: 
   {
@@ -28,12 +28,15 @@ npm manifest:
     },
     "dependencies": {
       "@react-native-community/async-storage": "^1.6.1",
-      "@react-native-firebase/app": "^0.5.4",
+      "faker": "^4.1.0",
       "react": "16.8.6",
       "react-native": "0.60.5",
+      "react-native-firebase": "^5.5.6",
       "react-native-gesture": "^0.2.0",
       "react-native-gesture-handler": "^1.4.1",
+      "react-native-keyboard-aware-scroll-view": "^0.9.1",
       "react-native-loading-spinner-overlay": "^1.0.1",
+      "react-native-vector-icons": "^6.6.0",
       "react-navigation": "^4.0.7",
       "react-navigation-stack": "^1.8.1"
     },
@@ -987,20 +990,6 @@ Lockfile:
       eslint-plugin-react-native "3.6.0"
       prettier "1.16.4"
   
-  "@react-native-firebase/app-types@0.5.4":
-    version "0.5.4"
-    resolved "https://registry.yarnpkg.com/@react-native-firebase/app-types/-/app-types-0.5.4.tgz#1d28976e7af0b4b462420a92f113264955803ee5"
-    integrity sha512-5lDqyJUWSXXjQeMuBN2J8k4G7/EThA0LHLliXAk85Q+BjD0xIzdAH8w62dGARjRQwF6T7ICiNPVbjVkvVWrveg==
-  
-  "@react-native-firebase/app@^0.5.4":
-    version "0.5.4"
-    resolved "https://registry.yarnpkg.com/@react-native-firebase/app/-/app-0.5.4.tgz#9fac7f1bccc4e88079b09fd91a0180be1ec85d92"
-    integrity sha512-l7cWDSI/WCQMBhaCAyjOo6f8gVEiu9OihIQETGwRMKGwVInVJXSNe2RvOxuI9If19OVW3JOp5LsJsaOY/Qj0kA==
-    dependencies:
-      "@react-native-firebase/app-types" "0.5.4"
-      opencollective-postinstall "^2.0.1"
-      superstruct "^0.6.2"
-  
   "@react-navigation/core@^3.5.1":
     version "3.5.1"
     resolved "https://registry.yarnpkg.com/@react-navigation/core/-/core-3.5.1.tgz#7a2339fca3496979305fb3a8ab88c2ca8d8c214d"
@@ -1790,16 +1779,6 @@ Lockfile:
       string-width "^3.1.0"
       strip-ansi "^5.2.0"
       wrap-ansi "^5.1.0"
-  
-  clone-deep@^2.0.1:
-    version "2.0.2"
-    resolved "https://registry.yarnpkg.com/clone-deep/-/clone-deep-2.0.2.tgz#00db3a1e173656730d1188c3d6aced6d7ea97713"
-    integrity sha512-SZegPTKjCgpQH63E+eN6mVEEPdQBOUzjyJm5Pora4lrwWRFS8I0QAxV/KD6vV/i0WuijHZWQC1fMsPEdxfdVCQ==
-    dependencies:
-      for-own "^1.0.0"
-      is-plain-object "^2.0.4"
-      kind-of "^6.0.0"
-      shallow-clone "^1.0.0"
   
   clone@^1.0.2:
     version "1.0.4"
@@ -2609,6 +2588,11 @@ Lockfile:
     resolved "https://registry.yarnpkg.com/extsprintf/-/extsprintf-1.4.0.tgz#e2689f8f356fad62cca65a3a91c5df5f9551692f"
     integrity sha1-4mifjzVvrWLMplo6kcXfX5VRaS8=
   
+  faker@^4.1.0:
+    version "4.1.0"
+    resolved "https://registry.yarnpkg.com/faker/-/faker-4.1.0.tgz#1e45bbbecc6774b3c195fad2835109c6d748cc3f"
+    integrity sha1-HkW7vsxndLPBlfrSg1EJxtdIzD8=
+  
   fancy-log@^1.3.2:
     version "1.3.3"
     resolved "https://registry.yarnpkg.com/fancy-log/-/fancy-log-1.3.3.tgz#dbc19154f558690150a23953a0adbd035be45fc7"
@@ -2768,22 +2752,10 @@ Lockfile:
     resolved "https://registry.yarnpkg.com/flatted/-/flatted-2.0.1.tgz#69e57caa8f0eacbc281d2e2cb458d46fdb449e08"
     integrity sha512-a1hQMktqW9Nmqr5aktAux3JMNqaucxGcjtjWnZLHX7yyPCmlSV3M54nGYbqT8K+0GhF3NBgmJCc3ma+WOgX8Jg==
   
-  for-in@^0.1.3:
-    version "0.1.8"
-    resolved "https://registry.yarnpkg.com/for-in/-/for-in-0.1.8.tgz#d8773908e31256109952b1fdb9b3fa867d2775e1"
-    integrity sha1-2Hc5COMSVhCZUrH9ubP6hn0ndeE=
-  
-  for-in@^1.0.1, for-in@^1.0.2:
+  for-in@^1.0.2:
     version "1.0.2"
     resolved "https://registry.yarnpkg.com/for-in/-/for-in-1.0.2.tgz#81068d295a8142ec0ac726c6e2200c30fb6d5e80"
     integrity sha1-gQaNKVqBQuwKxybG4iAMMPttXoA=
-  
-  for-own@^1.0.0:
-    version "1.0.0"
-    resolved "https://registry.yarnpkg.com/for-own/-/for-own-1.0.0.tgz#c63332f415cedc4b04dbfe70cf836494c53cb44b"
-    integrity sha1-xjMy9BXO3EsE2/5wz4NklMU8tEs=
-    dependencies:
-      for-in "^1.0.1"
   
   forever-agent@~0.6.1:
     version "0.6.1"
@@ -4003,7 +3975,7 @@ Lockfile:
     resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-5.1.0.tgz#729c91e2d857b7a419a1f9aa65685c4c33f5845d"
     integrity sha512-NGEErnH6F2vUuXDh+OlbcKW7/wOcfdRHaZ7VWtqCztfHri/++YKmP51OdWeGPuqCOba6kk2OTe5d02VmTB80Pw==
   
-  kind-of@^6.0.0, kind-of@^6.0.1, kind-of@^6.0.2:
+  kind-of@^6.0.0, kind-of@^6.0.2:
     version "6.0.2"
     resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.2.tgz#01146b36a6218e64e58f3a8d66de5d7fc6f6d051"
     integrity sha512-s5kLOcnH0XqDO+FvuaLX8DDjZ18CGFk7VygH40QoKPUQhW4e2rvM0rwUq0t8IQDOwYSeLK01U90OjzBTme2QqA==
@@ -4103,7 +4075,7 @@ Lockfile:
     resolved "https://registry.yarnpkg.com/lodash.unescape/-/lodash.unescape-4.0.1.tgz#bf2249886ce514cda112fae9218cdc065211fc9c"
     integrity sha1-vyJJiGzlFM2hEvrpIYzcBlIR/Jw=
   
-  lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.5, lodash@^4.3.0, lodash@^4.6.1:
+  lodash@^4.0.0, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.5, lodash@^4.3.0, lodash@^4.6.1:
     version "4.17.15"
     resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
     integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
@@ -4594,14 +4566,6 @@ Lockfile:
       for-in "^1.0.2"
       is-extendable "^1.0.1"
   
-  mixin-object@^2.0.1:
-    version "2.0.1"
-    resolved "https://registry.yarnpkg.com/mixin-object/-/mixin-object-2.0.1.tgz#4fb949441dab182540f1fe035ba60e1947a5e57e"
-    integrity sha1-T7lJRB2rGCVA8f4DW6YOGUel5X4=
-    dependencies:
-      for-in "^0.1.3"
-      is-extendable "^0.1.1"
-  
   mkdirp@^0.5.0, mkdirp@^0.5.1:
     version "0.5.1"
     resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-0.5.1.tgz#30057438eac6cf7f8c4767f38648d6697d75c903"
@@ -4920,7 +4884,7 @@ Lockfile:
     dependencies:
       is-wsl "^1.1.0"
   
-  opencollective-postinstall@^2.0.0, opencollective-postinstall@^2.0.1:
+  opencollective-postinstall@^2.0.0:
     version "2.0.2"
     resolved "https://registry.yarnpkg.com/opencollective-postinstall/-/opencollective-postinstall-2.0.2.tgz#5657f1bede69b6e33a45939b061eb53d3c6c3a89"
     integrity sha512-pVOEP16TrAO2/fjej1IdOyupJY8KDUM1CvsaScRbw6oddvpQoOfGk4ywha0HKKVAD6RkW4x6Q+tNBwhf3Bgpuw==
@@ -5383,6 +5347,19 @@ Lockfile:
       rx "^4.0.6"
       transducers.js "^0.3.2"
   
+  react-native-iphone-x-helper@^1.0.3:
+    version "1.2.1"
+    resolved "https://registry.yarnpkg.com/react-native-iphone-x-helper/-/react-native-iphone-x-helper-1.2.1.tgz#645e2ffbbb49e80844bb4cbbe34a126fda1e6772"
+    integrity sha512-/VbpIEp8tSNNHIvstuA3Swx610whci1Zpc9mqNkqn14DkMbw+ORviln2u0XyHG1kPvvwTNGZY6QpeFwxYaSdbQ==
+  
+  react-native-keyboard-aware-scroll-view@^0.9.1:
+    version "0.9.1"
+    resolved "https://registry.yarnpkg.com/react-native-keyboard-aware-scroll-view/-/react-native-keyboard-aware-scroll-view-0.9.1.tgz#9e54b565a5f19b30bed12221d48921781f7630af"
+    integrity sha512-tBZ8rmjELN0F6t5UBp5CW3NYmZXgVnJSzVCssv/OqG2t6kiB+OUTqxNvUP24K+HARX4H+XaW0aEJSFQkQCv6KA==
+    dependencies:
+      prop-types "^15.6.2"
+      react-native-iphone-x-helper "^1.0.3"
+  
   react-native-loading-spinner-overlay@^1.0.1:
     version "1.0.1"
     resolved "https://registry.yarnpkg.com/react-native-loading-spinner-overlay/-/react-native-loading-spinner-overlay-1.0.1.tgz#07f85a072b6f7d05b8749668cd626df4cc330347"
@@ -5403,6 +5380,15 @@ Lockfile:
     integrity sha512-tOxHGQUN83MTmQB4ghoQkibqOdGiX4JQEmeyEv96MKWO/x8T2PJv84ECUos9hD3blPRQwVwSpAid1PPPhrVEaw==
     dependencies:
       debounce "^1.2.0"
+  
+  react-native-vector-icons@^6.6.0:
+    version "6.6.0"
+    resolved "https://registry.yarnpkg.com/react-native-vector-icons/-/react-native-vector-icons-6.6.0.tgz#66cf004918eb05d90778d64bd42077c1800d481b"
+    integrity sha512-MImKVx8JEvVVBnaShMr7/yTX4Y062JZMupht1T+IEgbqBj4aQeQ1z2SH4VHWKNtWtppk4kz9gYyUiMWqx6tNSw==
+    dependencies:
+      lodash "^4.0.0"
+      prop-types "^15.6.2"
+      yargs "^13.2.2"
   
   react-native@0.60.5:
     version "0.60.5"
@@ -5922,15 +5908,6 @@ Lockfile:
     resolved "https://registry.yarnpkg.com/setprototypeof/-/setprototypeof-1.1.1.tgz#7e95acb24aa92f5885e0abef5ba131330d4ae683"
     integrity sha512-JvdAWfbXeIGaZ9cILp38HntZSFSo3mWg6xGcJJsd+d4aRMOqauag1C63dJfDw7OaMYwEbHMOxEZ1lqVRYP2OAw==
   
-  shallow-clone@^1.0.0:
-    version "1.0.0"
-    resolved "https://registry.yarnpkg.com/shallow-clone/-/shallow-clone-1.0.0.tgz#4480cd06e882ef68b2ad88a3ea54832e2c48b571"
-    integrity sha512-oeXreoKR/SyNJtRJMAKPDSvd28OqEwG4eR/xc856cRGBII7gX9lvAqDxusPm0846z/w/hWYjI1NpKwJ00NHzRA==
-    dependencies:
-      is-extendable "^0.1.1"
-      kind-of "^5.0.0"
-      mixin-object "^2.0.1"
-  
   shebang-command@^1.2.0:
     version "1.2.0"
     resolved "https://registry.yarnpkg.com/shebang-command/-/shebang-command-1.2.0.tgz#44aac65b695b03398968c39f363fee5deafdf1ea"
@@ -6265,14 +6242,6 @@ Lockfile:
     version "2.0.1"
     resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
     integrity sha1-PFMZQukIwml8DsNEhYwobHygpgo=
-  
-  superstruct@^0.6.2:
-    version "0.6.2"
-    resolved "https://registry.yarnpkg.com/superstruct/-/superstruct-0.6.2.tgz#c5eb034806a17ff98d036674169ef85e4c7f6a1c"
-    integrity sha512-lvA97MFAJng3rfjcafT/zGTSWm6Tbpk++DP6It4Qg7oNaeM+2tdJMuVgGje21/bIpBEs6iQql1PJH6dKTjl4Ig==
-    dependencies:
-      clone-deep "^2.0.1"
-      kind-of "^6.0.1"
   
   supports-color@^5.3.0:
     version "5.5.0"
@@ -6904,7 +6873,7 @@ Lockfile:
       y18n "^3.2.1 || ^4.0.0"
       yargs-parser "^11.1.1"
   
-  yargs@^13.3.0:
+  yargs@^13.2.2, yargs@^13.3.0:
     version "13.3.0"
     resolved "https://registry.yarnpkg.com/yargs/-/yargs-13.3.0.tgz#4c657a55e07e5f2cf947f8a366567c04a0dedc83"
     integrity sha512-2eehun/8ALW8TLoIl7MVaRUrg+yCnenu8B4kBlRxj3GJGDKU1Og7sMXPNm1BYyM1DOJmTZ4YeN/Nwxv+8XJsUA==

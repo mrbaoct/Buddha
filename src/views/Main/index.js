@@ -1,23 +1,26 @@
-import { createAppContainer } from "react-navigation"
+import {
+  createAppContainer
+} from 'react-navigation'
 
-import { createStackNavigator } from "react-navigation-stack"
+import { createStackNavigator } from "react-navigation-stack";
 
-import  HeadScreen from "./Head";
-import InviteFriendScreen from "./InviteFriend";
-import MyPrayersScreen from "./MyPrayers";
-import PrayHistoryScreen from "./PrayHistory";
-import PrayWithYoyScreen from "./PrayWithYoy";
-import SubscribedScreen from "./Subscribed";
+import HeadScreen from './Head'
+import InviteScreen from './InviteFriend'
+import MyPrayScreen from './MyPrayers'
+import PrayHistoryScreen from './PrayHistory'
+import PrayWithYouScreen from './PrayWithYou'
+import SubscribedScreen from './Subscribed'
 
 const MainNavigation = createStackNavigator({
-    head: HeadScreen,
-    inviteFriend: InviteFriendScreen,
-    myPrayers: MyPrayersScreen,
-    prayHistory: PrayHistoryScreen,
-    prayWithYoy: PrayWithYoyScreen,
-    subscribed: SubscribedScreen
+  head: HeadScreen,
+  invite: InviteScreen,
+  myPray: MyPrayScreen,
+  prayHistory: PrayHistoryScreen,
+  prayWithYou: PrayWithYouScreen,
+  subscribed: SubscribedScreen
 }, {
-    initialRouteName: 'head'
+  initialRouteName: 'head',
+  headerMode: 'none'
 })
 
 export default createAppContainer(MainNavigation)
