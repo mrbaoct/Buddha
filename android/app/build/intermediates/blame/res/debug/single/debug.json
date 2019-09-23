@@ -13,7 +13,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/anim_abc_slide_in_top.xml.flat",
@@ -29,11 +29,11 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-hdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable/common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -45,7 +45,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -109,7 +109,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable/common_google_signin_btn_icon_light.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -121,7 +121,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light.xml.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable/common_google_signin_btn_text_light.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -129,7 +129,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable/common_google_signin_btn_icon_dark.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -153,7 +153,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
@@ -177,7 +177,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_search_api_material.xml.flat",
@@ -273,7 +273,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-mdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
@@ -437,7 +437,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable/common_google_signin_btn_text_disabled.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable/common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
@@ -489,7 +489,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -565,7 +565,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable/common_google_signin_btn_text_light_focused.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable/common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -593,7 +593,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -665,7 +665,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable/common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/color_abc_btn_colored_borderless_text_material.xml.flat",
@@ -713,7 +713,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
@@ -757,7 +757,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/color_abc_tint_spinner.xml.flat",
@@ -801,7 +801,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
@@ -841,7 +841,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_tint.xml.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/color/common_google_signin_btn_tint.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/color/common_google_signin_btn_tint.xml"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -889,7 +889,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable/common_google_signin_btn_text_dark.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/color_abc_tint_btn_checkable.xml.flat",
@@ -913,7 +913,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -1029,11 +1029,11 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable/common_google_signin_btn_text_light_normal.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable/common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1105,7 +1105,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -1125,7 +1125,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
@@ -1229,11 +1229,11 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -1285,7 +1285,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -1301,7 +1301,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/color/common_google_signin_btn_text_light.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/color/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -1313,7 +1313,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1345,7 +1345,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_disabled.xml.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable/common_google_signin_btn_icon_disabled.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable/common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
@@ -1441,7 +1441,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -1465,7 +1465,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -1485,7 +1485,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_dark.xml.flat",
@@ -1553,7 +1553,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/color/common_google_signin_btn_text_dark.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -1569,7 +1569,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
@@ -1593,7 +1593,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/layout_dev_loading_view.xml.flat",
@@ -1661,7 +1661,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
@@ -1733,7 +1733,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_tick_mark_material.xml.flat",
@@ -1749,7 +1749,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -1785,7 +1785,7 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable/common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -1809,11 +1809,11 @@
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/351c2844d674522c80403b5affc2baa4/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/45dc786d4f5561231f6054dfd833a540/res/drawable-hdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
