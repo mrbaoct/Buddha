@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "305023743073",
+    "firebase_url": "https://buddha-db496.firebaseio.com",
+    "project_id": "buddha-db496",
+    "storage_bucket": "buddha-db496.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305023743073:android:d9ea04eb1adfb832e06620",
+        "android_client_info": {
+          "package_name": "com.buddha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305023743073-md9cl73esjkgmevcfvj9h0tjgmkaknvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIaIPiXI5ZsdeNlxiEu5c_LDimkMuo9w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305023743073-md9cl73esjkgmevcfvj9h0tjgmkaknvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

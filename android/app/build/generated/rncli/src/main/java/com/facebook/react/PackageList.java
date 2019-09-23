@@ -15,6 +15,8 @@ import com.buddha.R;
 
 // @react-native-community/async-storage
 import com.reactnativecommunity.asyncstorage.AsyncStoragePackage;
+// react-native-firebase
+import io.invertase.firebase.RNFirebasePackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
 
@@ -51,6 +53,7 @@ public class PackageList {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(),
       new AsyncStoragePackage(),
+      new RNFirebasePackage(),
       new RNGestureHandlerPackage()
     ));
   }

@@ -1,4 +1,4 @@
-#Mon Sep 23 22:03:38 ICT 2019
+#Tue Sep 24 00:09:28 ICT 2019
 base.0=/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

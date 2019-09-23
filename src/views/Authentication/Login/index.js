@@ -6,12 +6,12 @@ import {
     Keyboard
 } from "react-native";
 
-//import firebase, { Firebase } from "react-native-firebase";
 import {AsyncStorage} from "@react-native-community/async-storage";
 import { colors, storageKey } from "../../../utils";
 import { Input, Button } from "../../../components";
+import firebase, { Firebase } from "react-native-firebase";
 
-//const auth = firebase.auth()
+const auth = firebase.auth();
 
 export default class Login extends Component {
 
@@ -21,28 +21,27 @@ export default class Login extends Component {
         this.state = {
             email: null,
             password: null,
-            loginError: null,
-            isShowModal: false,
+            loginError: null    
         }
     }
 
-    // _loginWithEmailPassword = async () => {
-    //     const {email, password} = this.setState
-    //     try {
-    //         const user = await auth.signInWithEmailAndPassword(email, password)
-    //         if (user) {
-    //             const token = await auth.currentUser.getIdToken()
-    //             if (token) {
-    //                 await AsyncStorage.setItem(storageKey.token, JSON.stringify(token))
-    //                 await AsyncStorage.setItem(storageKey.userInfo, JSON.stringify(user))
-    //                 this.props.navigation.navigate('main')
-    //             }
-    //         }
-    //     } catch (error) {
-    //         console.log('LOGIN ERR', error.code)
-    //         this.setState({loginErr: error})
-    //     }
-    // }
+    _loginWithEmailPassword = async () => {
+        const {email, password} = this.setState
+        try {
+            const user = auth.signInWithEmailAndPassword(email, password);
+            if (user) {
+                const token = await auth.currentUser.getIdToken()
+                if (token) {
+                    await AsyncStorage.setItem(storageKey.token, JSON.stringify(token))
+                    await AsyncStorage.setItem(storageKey.userInfo, JSON.stringify(user))
+                    this.props.navigation.navigate('main')
+                }
+            }
+        } catch (error) {
+            console.log('LOGIN ERR', error.code)
+            this.setState({loginErr: error})
+        }
+    }
 
 
     render() {

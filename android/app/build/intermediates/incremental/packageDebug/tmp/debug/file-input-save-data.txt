@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Sep 23 21:40:01 ICT 2019
+#Mon Sep 23 22:50:06 ICT 2019
 56.path=lib/x86_64/libglog_init.so
 5.base=/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/home/bao/Desktop/GitHub/ReactNative/ReactCLI/Buddha/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
